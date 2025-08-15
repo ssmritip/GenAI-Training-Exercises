@@ -1,0 +1,27 @@
+[
+    {
+        "department": "Produce",
+        "item": "Apples",
+        "count": 124
+    },
+    {
+        "department": "Produce",
+        "item": "Bananas",
+        "count": 98
+    },
+    {
+        "department": "Dairy",
+        "item": "Milk",
+        "count": 40
+    },
+    {
+        "department": "Electronics",
+        "item": "Laptop",
+        "count": 10
+    },
+    {
+        "department": "Electronics",
+        "item": "Headphones",
+        "count": 25
+    }
+]
